@@ -1,0 +1,8 @@
+    # Binaries for programs and plugins
+    /target/
+    
+    # C dependencies
+    **/*.rs.bk
+    
+    # Rust/Cargo specific files
+    Cargo.lock

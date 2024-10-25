@@ -1,0 +1,11 @@
+/mnt/w/Tech Stack/RustQuest/Part 1 - Chapter 1 & 2/Projects/guessing_game/target/debug/deps/libquote-7d08d2f8097e003d.rmeta: /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs
+
+/mnt/w/Tech Stack/RustQuest/Part 1 - Chapter 1 & 2/Projects/guessing_game/target/debug/deps/quote-7d08d2f8097e003d.d: /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs /home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs
+
+/home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/lib.rs:
+/home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ext.rs:
+/home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/format.rs:
+/home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/ident_fragment.rs:
+/home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/to_tokens.rs:
+/home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/runtime.rs:
+/home/amaan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-1.0.37/src/spanned.rs:
